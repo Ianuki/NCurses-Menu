@@ -1,2 +1,2 @@
 # NCurses-Menu
-A simple menu for ncurses
+A simple menu class for ncurses
